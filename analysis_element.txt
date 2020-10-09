@@ -1,0 +1,9 @@
+//*[@id="HCM0"]/tbody/tr[2]/td[2]/em
+//*[@id="HCM0"]/tbody/tr[3]/td[2]/p
+//*[@id="HCM0"]/tbody/tr[4]/td[2]/p
+//*[@id="HCM0"]/tbody/tr[5]/td[2]/p
+//*[@id="HCM0"]/tbody/tr[6]/td[2]/p
+//*[@id="HCM0"]/tbody/tr[8]/td[2]/p
+//*[@id="HCM0"]/tbody/tr[9]/td[2]/p
+//*[@id="HCM0"]/tbody/tr[10]/td[2]/p
+//*[@id="HCM0"]/tbody/tr[11]/td[2]/em
